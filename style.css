@@ -1,0 +1,24 @@
+:root{
+
+}
+body{
+    font-family: "Assistant", sans-serif;
+    line-height: 1.5em;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin: 0px;
+}
+h3, 
+h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: initial;
+}
+input {
+  font-size: 20px;
+  font-family: monospace;
+}
+button{
+  cursor: pointer;
+  user-select: none;
+}
